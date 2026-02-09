@@ -1,3 +1,3 @@
 li = {"apple", "banana", "cherry"}
 for i in li:
-    print(i)
+    print(f"the fruits are: {i}")
